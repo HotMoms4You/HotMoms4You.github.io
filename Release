@@ -1,12 +1,12 @@
-Architectures: iphoneos-arm
-Codename: CODENAME_HERE
+Architectures: iphoneos-arm64 iphoneos-arm64e
+Codename: RootHide
 Components: main
 Date: Fri, 12 Jan 2024 01:52:38 +0000
-Description: DESCRIPTION_HERE
-Label: LABEL_HERE
-Origin: ORIGIN_HERE
+Description: Steve Jobless's Repo (Repacked Free/Pirated Tweaks Ready for RootHide Bootstrap)
+Label: Steve Jobless's Repo
+Origin: Steve Jobless's Repo
 Suite: stable
-Version: 1.0
+Version: 1.1
 MD5Sum:
  9fb3d85ec8778dcb40705bb2141114ea            57691 Packages
  ae736af038b060b62916a500e56b9be0            18087 Packages.bz2
