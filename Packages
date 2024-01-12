@@ -32,7 +32,7 @@ MD5sum: d32bc2cc2a99d1f683d11a69c0fba8c3
 SHA1: 5b46588dd642e44502fdb8a607e09a5fd9ed18d0
 SHA256: 2e88cb31205b5a4fa23721bca6bfb7325e92a4f3296747f4e9e8d367a0276d27
 SHA512: 6844482706104dbdd6b0ce171015ca34533edb325173de0efc727a4be7e70ad34b2c2e80fade2b1f592a805345a10b2ff024a43b7fdbe3a49d51dd5e9bfc1f4a
-Description: Prysm控制中心自定义。
+Description: Prysm控制中心自定义。If you have the money, please buy the tweak and support the developer instead, he deserves it.
 Author: Nightwind and thetimeloop <nightwinddev@gmail.com>
 Name: Jade(rootless)
 
@@ -1177,6 +1177,26 @@ SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/1790
 Name: Designer
 Author: JunesiPhone <junesgraphics@gmail.com>
 
+Package: xyz.cypwn.isecureos
+Architecture: iphoneos-arm64e
+Version: 1.24
+Section: Utilities
+Maintainer: CyPwn
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: firmware (>= 11.0), xyz.cypwn.xinam1ne
+Filename: ./debians/xyz.cypwn.isecureos_1.24_iphoneos-arm64e.deb
+Size: 3618372
+MD5sum: af9c5b2f600d4a06891b9a9c61d26aae
+SHA1: e31ef352759092614768ad92348596b6aca65e0a
+SHA256: edac2e8f26f88f9f749363361ad3cc26c858daaedc2479e5b0b93811bfd29012
+SHA512: cd16c58f6e37a3967259ab630dea08c60a29686b017b45a39d87a3dfbe779df603416a906e5dd2b71b3912b1e1327ea7da4489f5f8d34b37bd26b5272c34e616
+Description: An iOS Security Application for Jailbroken units.
+Depiction: https://repo.cypwn.xyz/depiction/1798
+SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/1798
+Name: iSecureOS
+Author: GeoSn0w (@FCE365)
+Icon: https://isecureos.idevicecentral.com/repo/Files/iSecureOS/iSecureOS.png
+
 Package: xyz.cypwn.jellyfish
 Architecture: iphoneos-arm64e
 Version: 1.6.5
@@ -1234,6 +1254,26 @@ SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/283
 Name: Prysm
 Author: LaughingQuoll
 Icon: https://repo.cypwn.xyz/assets/repo/Featured/prysm.png
+
+Package: xyz.cypwn.retro2
+Architecture: iphoneos-arm64e
+Version: 1.0.0
+Section: Applications
+Maintainer: CyPwn
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate
+Filename: ./debians/xyz.cypwn.retro2_1.0.0_iphoneos-arm64e.deb
+Size: 36857170
+MD5sum: a888c9180aec02f0eb0496210d0f2588
+SHA1: b232d7455912b609e1c26ad7280b65a20f291bc0
+SHA256: 23b09e7f62fcc347c76516377ec095ce0498779e98cfdb13f5d4e882691a8226
+SHA512: 1b3a52ce35b3ba23b0607e882fda9d1842f67570594d80b9b4cebefc2911e192f0de7435d76a9f0d7387d2e5a8be8711d02af82e52663c2f2976e606038b1ef9
+Description: Retro aims to bring the iPod Classic to modern iPhones, with modern integrations like Spotify, themes, and more.
+Depiction: https://repo.cypwn.xyz/depiction/1736
+SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/1736
+Name: Retro2
+Author: retromp3
+Icon: https://repo.cypwn.xyz/assets/repo/Featured/retro.png
 
 Package: xyz.cypwn.settingsrevamp
 Architecture: iphoneos-arm64e
