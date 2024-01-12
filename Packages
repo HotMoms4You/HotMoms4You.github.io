@@ -965,24 +965,6 @@ Description: Animations for Pin dots
 Name: PinAnim
 Author: sourcelocation
 
-Package: netskao.limneoscrack-rootless
-Architecture: iphoneos-arm64e
-Version: 1.1-3
-Section: Netskao-Cracks
-Maintainer: Nets
-Installed-Size: 152
-Pre-Depends: rootless-compat(>= 0.1)
-Depends: mobilesubstrate, firmware (>= 15.0)
-Filename: ./debians/netskao.limneoscrack-rootless_1.1-3_iphoneos-arm64e.deb
-Size: 14026
-MD5sum: 975597c2f28e59c5511302352587da85
-SHA1: a958a9f845349bda373cfe3d7b5639047b6de45b
-SHA256: f7f9301867ec54033eaa74a01fd2b1cda8e5c16db9d44edae0816a66343f4bb9
-SHA512: 0eaeda3bf9209869ab2f1c72a9bb906f94ee0ad5cfd5c19d7203db7b53960f81977a542e246bf6a911bf89e9de5e7bbf2ce15c3dc5656f45e34160d54b205c57
-Description: 解锁Limneos所有插件全功能
-Name: Limneos Crack-Rootless
-Author: Netskao
-
 Package: xyz.cypwn.akara
 Architecture: iphoneos-arm64e
 Version: 2.0.0k
