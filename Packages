@@ -32,7 +32,7 @@ MD5sum: d32bc2cc2a99d1f683d11a69c0fba8c3
 SHA1: 5b46588dd642e44502fdb8a607e09a5fd9ed18d0
 SHA256: 2e88cb31205b5a4fa23721bca6bfb7325e92a4f3296747f4e9e8d367a0276d27
 SHA512: 6844482706104dbdd6b0ce171015ca34533edb325173de0efc727a4be7e70ad34b2c2e80fade2b1f592a805345a10b2ff024a43b7fdbe3a49d51dd5e9bfc1f4a
-Description: Prysm控制中心自定义。If you have the money, please buy the tweak and support the developer instead, he deserves it.
+Description: Prysm控制中心自定义。
 Author: Nightwind and thetimeloop <nightwinddev@gmail.com>
 Name: Jade(rootless)
 
