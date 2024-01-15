@@ -1358,6 +1358,28 @@ Name: TweakHub
 Author: SOPPPra
 Icon: https://i.postimg.cc/pd0ZkKZJ/tweakhub.png
 
+Package: xyz.cypwn.vendetta
+Architecture: iphoneos-arm64e
+Version: 0.0.2
+Section: Tweaks
+Maintainer: CyPwn
+Installed-Size: 552
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 13.0)
+Conflicts: app.enmity, mod.vendetta
+Filename: ./debians/xyz.cypwn.vendetta_0.0.2_iphoneos-arm64e.deb
+Size: 130926
+MD5sum: 397e8299e71f6b9acc7b5f86d68cc0df
+SHA1: ae031f40ac6e05e98dab931e582c766c0808748c
+SHA256: bcc8b69d4b82a582939ecca597e5f6dcd803147c3191e970d94be3f0d9a51428
+SHA512: 5d5ef7a2f0cb2b85d48eb77398ece76d5e859cdc83b93fddfc2dfaf9ccfd8e14c193a57e89e1aa5f0bef0627622b00dc674f008dae1b373f9bffd94e9360692b
+Description: A mod for Discord's mobile apps.
+Depiction: https://repo.cypwn.xyz/depiction/1776
+SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/1776
+Name: Vendetta
+Author: FieryFlames
+Icon: https://avatars.githubusercontent.com/u/112445065
+
 Package: xyz.cypwn.xinam1ne
 Architecture: iphoneos-arm64e
 Version: 2.4-9
