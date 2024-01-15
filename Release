@@ -1,12 +1,12 @@
-Architectures: iphoneos-arm
-Codename: CODENAME_HERE
+Architectures: iphoneos-arm64 iphoneos-arm64e
+Codename: RootBeer
 Components: main
-Date: Mon, 15 Jan 2024 01:03:20 +0000
-Description: DESCRIPTION_HERE
-Label: LABEL_HERE
-Origin: ORIGIN_HERE
+Date: Fri, 12 Jan 2024 06:09:57 +0000
+Description: Steve Jobless's Repo
+Label: Steve Jobless's Repo 
+Origin: Steve Jobless's Repo
 Suite: stable
-Version: 1.0
+Version: 1.4.1
 MD5Sum:
  a2f2991a920faa0b813d1bcf3d6dcd08            61960 Packages
  536be74272b3f6bbc2221ba425358107            19492 Packages.bz2
